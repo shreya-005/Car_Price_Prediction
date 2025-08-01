@@ -11,6 +11,7 @@ Average Selling Price: The average selling price of a car in the dataset is appr
 
 Average Kilometers Driven: The average mileage is approximately 36,947 km.
 
+
 🚗 Data & Analysis
 The analysis of the car_data.csv file revealed the following key distributions and insights:
 
@@ -25,6 +26,7 @@ verna (14)
 fortuner (11)
 
 brio (10)
+
 
 Fuel Type Distribution:
 
